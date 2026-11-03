@@ -1,5 +1,5 @@
-const cart = [{
-  productName: '',
+export const cart = [{
+  productId: '',
   quantity: 0
 }];
 
